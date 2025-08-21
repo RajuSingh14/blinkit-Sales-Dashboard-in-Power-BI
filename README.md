@@ -5,9 +5,9 @@ This project provides an **interactive Power BI Dashboard** for analyzing **Blin
 It highlights **sales performance, outlet analysis, item categories, and customer ratings** with dynamic filters.
 
 ---
+## 📊 Dashboard Preview  
 
-## 🖼 Dashboard Preview  
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](https://github.com/RajuSingh14/blinkit-Sales-Dashboard-in-Power-BI/blob/main/BLINKIT.png)
 
 ---
 
